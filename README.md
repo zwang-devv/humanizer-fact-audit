@@ -1,7 +1,7 @@
 # Humanized but Still True? Auditing Facts and Detection in AI-Text Humanizers
 
 Code and per-item results for the paper *Humanized but Still True? Auditing Facts and Detection in AI-Text Humanizers*
-(Ziyuan Wang, Genliang Zhu, Xiaobo Chen, 2026). arXiv link: to be added.
+(Ziyuan Wang, Genliang Zhu, Xiaobo Chen, 2026). arXiv: [2611.00359](https://arxiv.org/abs/2611.00359).
 
 This repository contains:
 
@@ -85,6 +85,9 @@ please credit those sources as well when you reuse them.
   title  = {Humanized but Still True? Auditing Facts and Detection in AI-Text Humanizers},
   author = {Wang, Ziyuan and Zhu, Genliang and Chen, Xiaobo},
   year   = {2026},
-  note   = {arXiv preprint}
+  eprint = {2611.00359},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CL},
+  url    = {https://arxiv.org/abs/2611.00359}
 }
 ```
